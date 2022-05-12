@@ -1,0 +1,388 @@
+{
+  "women": [
+    {
+      "id": 1,
+      "image": "/diesel_t-serra-n_01.png",
+      "name": "Nissy",
+      "price": 40,
+      "category": 0.09452219,
+      "rating": 4,
+      "description": "Short Sleeve Dobby Shirt form Burton Menswea",
+      "brand": 0.33
+    },
+    {
+      "id": 2,
+      "name": "Henka",
+      "image": "/diesel_t-sully-cc_01.png",
+      "price": 65,
+      "category": 1.7952424575,
+      "rating": 2,
+      "description": "Short Sleeve Dobby Shirt form Burton Menswea",
+      "brand": -0.74
+    },
+    {
+      "id": 3,
+      "image": "/gypsy_girl_play_dress_by_auguste_1.jpg",
+      "name": "Denis",
+      "price": 80,
+      "category": 3.8363937345,
+      "rating": 3,
+      "description": "Short Sleeve Dobby Shirt form Burton Menswea",
+      "brand": 0.04
+    },
+    {
+      "id": 4,
+      "image": "/zodiac_satin_slip_dress_by_minkpink_1.jpg",
+      "name": "Mariele",
+      "price": 73,
+      "category": 0.759993613,
+      "rating": 4,
+      "description": "Short Sleeve Dobby Shirt form Burton Menswea",
+      "brand": 0.73
+    },
+    {
+      "id": 5,
+      "image": "/diesel_t-smi-b_01.webp",
+      "name": "Dorris",
+      "price": 86,
+      "category": 1.1697389475,
+      "rating": 5,
+      "description": "Short Sleeve Dobby Shirt form Burton Menswea",
+      "brand": -0.66
+    }
+  ],
+  "men": [
+    {
+      "id": 6,
+      "image": "/diesel_t-diego-aa_01.png",
+      "name": "Nissy",
+      "price": 40,
+      "category": 0.09452219,
+      "rating": 1,
+      "description": 0.79,
+      "brand": 0.33
+    },
+    {
+      "id": 7,
+      "image": "/diesel_t-diego-a_01.png",
+      "name": "Henka",
+      "price": 65,
+      "category": 1.7952424575,
+      "rating": 2,
+      "description": -0.55,
+      "brand": -0.74
+    },
+    {
+      "id": 8,
+      "image": "/uncle_bob_shirt_by_ted_baker_1.jpg",
+      "name": "Denis",
+      "price": 80,
+      "category": 3.8363937345,
+      "rating": 3,
+      "description": 0.22,
+      "brand": 0.04
+    },
+    {
+      "id": 9,
+      "image": "/webbing_textured_belt_3.jpg",
+      "name": "Mariele",
+      "price": 73,
+      "category": 0.759993613,
+      "rating": 4,
+      "description": 0.13,
+      "brand": 0.73
+    },
+    {
+      "id": 10,
+      "image": "/oversized_seam_trim_hoodie_4.jpg",
+      "name": "Dorris",
+      "price": 86,
+      "category": 1.1697389475,
+      "rating": 5,
+      "description": 0.72,
+      "brand": -0.66
+    }
+  ],
+  "kids": [
+    {
+      "id": 11,
+      "image": "/OIP.jpg",
+      "name": "Nissy",
+      "price": 40,
+      "category": 0.09452219,
+      "rating": 1,
+      "description": 0.79,
+      "brand": 0.33
+    },
+    {
+      "id": 12,
+      "image": "/R.jpg",
+      "name": "Henka",
+      "price": 65,
+      "category": 1.7952424575,
+      "rating": 2,
+      "description": -0.55,
+      "brand": -0.74
+    },
+    {
+      "id": 13,
+      "image": "/OIP (1).jpg",
+      "name": "Denis",
+      "price": 80,
+      "category": 3.8363937345,
+      "rating": 3,
+      "description": 0.22,
+      "brand": 0.04
+    },
+    {
+      "id": 14,
+      "image": "/MZ7A3728.jpg",
+      "name": "Mariele",
+      "price": 73,
+      "category": 0.759993613,
+      "rating": 4,
+      "description": 0.13,
+      "brand": 0.73
+    }
+  ],
+  "accessories": [
+    {
+      "id": 15,
+      "image": "/OIP (2).jpg",
+      "name": "Nissy",
+      "price": 40,
+      "category": 0.09452219,
+      "rating": 1,
+      "description": 0.79,
+      "brand": 0.33
+    },
+    {
+      "id": 16,
+      "image": "/Jewellery-feature-768x521.webp",
+      "name": "Henka",
+      "price": 65,
+      "category": 1.7952424575,
+      "rating": 2,
+      "description": -0.55,
+      "brand": -0.74
+    },
+    {
+      "id": 17,
+      "image": "/wanderlustandco-golden-crescent-key-bracelet-2_fe22e202-b03d-4b76-81d4-15a119aa5380_394x.webp",
+      "name": "Denis",
+      "price": 80,
+      "category": 3.8363937345,
+      "rating": 3,
+      "description": 0.22,
+      "brand": 0.04
+    },
+    {
+      "id": 18,
+      "image": "/LBR-8019_B_1000x.webp",
+      "name": "Mariele",
+      "price": 73,
+      "category": 0.759993613,
+      "rating": 4,
+      "description": 0.13,
+      "brand": 0.73
+    },
+    {
+      "id": 19,
+      "image": "/mini_gold_chain_structured_tote_bag_4.png",
+      "name": "Dorris",
+      "price": 86,
+      "category": 1.1697389475,
+      "rating": 5,
+      "description": 0.72,
+      "brand": -0.66
+    }
+  ],
+  "sale": [
+    {
+      "id": 20,
+      "image": "/mini_gold_chain_structured_tote_bag_1.png",
+      "name": "Henka",
+      "price": 65,
+      "category": 1.7952424575,
+      "rating": 2,
+      "description": -0.55,
+      "brand": -0.74
+    },
+    {
+      "id": 21,
+      "image": "/c-5.webp",
+      "name": "Denis",
+      "price": 80,
+      "category": 3.8363937345,
+      "rating": 3,
+      "description": 0.22,
+      "brand": 0.04
+    },
+    {
+      "id": 22,
+      "image": "/gucci_red_ophidia_suede_cross_body_bag.png",
+      "name": "Mariele",
+      "price": 73,
+      "category": 0.759993613,
+      "rating": 4,
+      "description": 0.13,
+      "brand": 0.73
+    },
+    {
+      "id": 23,
+      "image": "/double_strap_zip_bowler_4.png",
+      "name": "Dorris",
+      "price": 86,
+      "category": 1.1697389475,
+      "rating": 5,
+      "description": 0.72,
+      "brand": -0.66
+    },
+    {
+      "id": 24,
+      "image": "/webbing_textured_belt_2.png",
+      "name": "Cecilio",
+      "price": 74,
+      "category": 0.8579571271,
+      "rating": 6,
+      "description": -0.96,
+      "brand": -0.56
+    },
+    {
+      "id": 25,
+      "image": "/ankle_strap_bow_front_sandals_2.webp",
+      "name": "Cecilio",
+      "price": 74,
+      "category": 0.8579571271,
+      "rating": 6,
+      "description": -0.96,
+      "brand": -0.56
+    }
+  ],
+  "shose": [
+    {
+      "id": 26,
+      "image": "/beau_coops_beau5_ankle_boots_1.png",
+      "name": "Nissy",
+      "price": 40,
+      "category": 0.09452219,
+      "rating": 1,
+      "description": 0.79,
+      "brand": 0.33
+    },
+    {
+      "id": 27,
+      "image": "/block_heel_chelsea_boots_1.png",
+      "name": "Henka",
+      "price": 65,
+      "category": 1.7952424575,
+      "rating": 2,
+      "description": -0.55,
+      "brand": -0.74
+    },
+    {
+      "id": 28,
+      "image": "/ankle_boots_1.png",
+      "name": "Denis",
+      "price": 80,
+      "category": 3.8363937345,
+      "rating": 3,
+      "description": 0.22,
+      "brand": 0.04
+    },
+    {
+      "id": 29,
+      "image": "/chelsea_boots_1.png",
+      "name": "Mariele",
+      "price": 73,
+      "category": 0.759993613,
+      "rating": 4,
+      "description": 0.13,
+      "brand": 0.73
+    }
+  ],
+  "addtocart": [
+    {
+      "id": 3,
+      "image": "/gypsy_girl_play_dress_by_auguste_1.jpg",
+      "name": "Denis",
+      "price": 80,
+      "category": 3.8363937345,
+      "rating": 3,
+      "description": "Short Sleeve Dobby Shirt form Burton Menswea",
+      "brand": 0.04
+    },
+    {
+      "id": 1,
+      "image": "/diesel_t-serra-n_01.png",
+      "name": "Nissy",
+      "price": 40,
+      "category": 0.09452219,
+      "rating": 4,
+      "description": "Short Sleeve Dobby Shirt form Burton Menswea",
+      "brand": 0.33
+    },
+    {
+      "id": 4,
+      "image": "/zodiac_satin_slip_dress_by_minkpink_1.jpg",
+      "name": "Mariele",
+      "price": 73,
+      "category": 0.759993613,
+      "rating": 4,
+      "description": "Short Sleeve Dobby Shirt form Burton Menswea",
+      "brand": 0.73
+    },
+    {
+      "id": 29,
+      "image": "/chelsea_boots_1.png",
+      "name": "Mariele",
+      "price": 73,
+      "category": 0.759993613,
+      "rating": 4,
+      "description": 0.13,
+      "brand": 0.73
+    }
+  ],
+  "favourit": [
+    {
+      "id": 2,
+      "name": "Henka",
+      "image": "/diesel_t-sully-cc_01.png",
+      "price": 65,
+      "category": 1.7952424575,
+      "rating": 2,
+      "description": "Short Sleeve Dobby Shirt form Burton Menswea",
+      "brand": -0.74
+    },
+    {
+      "id": 18,
+      "image": "/LBR-8019_B_1000x.webp",
+      "name": "Mariele",
+      "price": 73,
+      "category": 0.759993613,
+      "rating": 4,
+      "description": 0.13,
+      "brand": 0.73
+    },
+    {
+      "id": 27,
+      "image": "/block_heel_chelsea_boots_1.png",
+      "name": "Henka",
+      "price": 65,
+      "category": 1.7952424575,
+      "rating": 2,
+      "description": -0.55,
+      "brand": -0.74
+    },
+    {
+      "id": 21,
+      "image": "/c-5.webp",
+      "name": "Denis",
+      "price": 80,
+      "category": 3.8363937345,
+      "rating": 3,
+      "description": 0.22,
+      "brand": 0.04
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+.pages{
+    padding-left:10% ;
+    font-size: 20px;
+   
+   
+  }
+  .offers{
+    background: url('../public/banner-9.webp') ;
+    cursor: pointer;
+
+  }
+  ul{
+    list-style-type: none;
+    padding-top: 10px;
+    background-color: rgb(251, 250, 250);
+  }
